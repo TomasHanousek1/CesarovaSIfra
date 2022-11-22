@@ -19,7 +19,7 @@ namespace CesarovaSIfra
             Console.ReadLine();
         }
     }
-    public class Sifra
+    public class Sifra //Vigenerova šifra
     {
         public Sifra(string key, string message)
         {
@@ -97,7 +97,7 @@ namespace CesarovaSIfra
         }
     }
 
-    /*public class Sifra
+    /*public class Sifra // Cesarova šifra
     {
         public Sifra(int key, string message)
         {
